@@ -1,6 +1,5 @@
-package Cellpose;
+package RNA_Scope_DAPI_Tools.Cellpose;
 
-import Cellpose.CellposeTaskSettings;
 import java.util.ArrayList;
 
 public class CellposeTask {

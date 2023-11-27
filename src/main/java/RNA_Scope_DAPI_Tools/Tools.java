@@ -1,8 +1,8 @@
 package RNA_Scope_DAPI_Tools;
 
-import Cellpose.CellposeSegmentImgPlusAdvanced;
-import Cellpose.CellposeTaskSettings;
-import StardistOrion.StarDist2D;
+import RNA_Scope_DAPI_Tools.Cellpose.CellposeSegmentImgPlusAdvanced;
+import RNA_Scope_DAPI_Tools.Cellpose.CellposeTaskSettings;
+import RNA_Scope_DAPI_Tools.StardistOrion.StarDist2D;
 import fiji.util.gui.GenericDialogPlus;
 import ij.IJ;
 import ij.ImagePlus;

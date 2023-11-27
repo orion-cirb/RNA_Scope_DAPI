@@ -1,4 +1,4 @@
-package Cellpose;
+package RNA_Scope_DAPI_Tools.Cellpose;
 
 
 public class CellposeTaskSettings {

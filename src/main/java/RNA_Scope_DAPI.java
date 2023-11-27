@@ -1,5 +1,4 @@
-package RNA_Scope_DAPI;
-
+import RNA_Scope_DAPI_Tools.Tools;
 import RNA_Scope_DAPI_Tools.Nucleus;
 import ij.IJ;
 import ij.ImagePlus;
@@ -35,7 +34,7 @@ import org.scijava.util.ArrayUtils;
  */
 public class RNA_Scope_DAPI implements PlugIn {
     
-    RNA_Scope_DAPI_Tools.Tools tools = new RNA_Scope_DAPI_Tools.Tools();
+    Tools tools = new Tools();
     private String imageDir = "";
     public  String outDirResults = "";
     public  String rootName = "";
